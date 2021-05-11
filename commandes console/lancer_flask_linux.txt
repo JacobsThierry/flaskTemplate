@@ -4,3 +4,6 @@ dans un terminal :
 export FLASK_APP=hello.py
 export FLASK_DEBUG=1
 flask run
+
+
+Attention, il n'y a pas d'espaces autour du =
