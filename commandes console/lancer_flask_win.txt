@@ -1,0 +1,6 @@
+Pour lancer flask sous windows :
+dans le powershell :
+
+$env:FLASK_APP = "hello.py"
+$env:FLASK_DEBUG = 1
+flask run
